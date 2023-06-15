@@ -6,12 +6,17 @@ const skills = [
   { skill: "JavaScript" },
   { skill: "TypeScript" },
   { skill: "Python" },
+  { skill: "Ruby" },
+  { skill: "Rails" },
   { skill: "React" },
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
+  { skill: "Sass" },
   { skill: "Git" },
   { skill: "GitHub" },
-  { skill: "Jupyter Notebooks" },
+  { skill: "Prisma" },
+  { skill: "SQL" },
+  { skill: "PostgreQL" },
 ]
 
 const AboutSection = () => {
