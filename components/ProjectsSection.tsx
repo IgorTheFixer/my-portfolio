@@ -41,7 +41,7 @@ const ProjectsSection = () => {
                     <Link href={project.link}>
                       <Image
                         src={project.image}
-                        alt=""
+                        alt="image of featured project"
                         width={1000}
                         height={1000}
                         className="rounded-xl shadow-xl hover:opacity-70"
