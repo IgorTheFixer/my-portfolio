@@ -2,22 +2,20 @@ import Image from "next/image"
 import Link from "next/link"
 import SlideUp from "./SlideUp"
 import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
-import NextFlix from "../assets/nextflix-image.png"
-import Planner from "../assets/planner-image.png"
 
 const projects = [
   {
     name: "NextFlix",
     description:
       "Nextflix is an attempt to mimic the basic functionality of the streaming platform Netflix.",
-    image: NextFlix,
+    image: "/nextflix-image.png",
     github: "https://github.com/IgorTheFixer/next-netflix-clone",
     link: "https://next-netflix-mirror.vercel.app/",
   },
   {
     name: "Personal Planner",
     description: "Personal Planner is a to do list app that built using Next.JS and Tailwind.",
-    image: Planner,
+    image: "/planner-image.png",
     github: "https://github.com/IgorTheFixer/personal-planner/",
     link: "https://personal-planner-two.vercel.app",
   }
