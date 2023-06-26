@@ -10,7 +10,7 @@ const projects = [
       "Nextflix is an attempt to mimic the basic functionality of the streaming platform Netflix.",
     image: "/nextflix-image.png",
     github: "https://github.com/IgorTheFixer/next-netflix-clone",
-    link: "https://nextflix-movies.vercel.app/",
+    link: "https://nextflixx.vercel.app",
   },
   {
     name: "Personal Planner",
