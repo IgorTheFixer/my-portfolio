@@ -15,7 +15,7 @@ const projects = [
   {
     name: "Admin DashBoard (Trillion Troves)",
     description:
-      "The Admin Dashboard is a custom-built content management system for the products sold on Trillion Troves. Features include Next, Tailwind, Prisma, MySQL, ReCharts, and, Stripe",
+      "The Admin Dashboard is a custom-built content management system for the products sold on Trillion Troves. Interesed users can also create their on stores for use on a frontend of their choice. Features include Next, Tailwind, Prisma, MySQL, ReCharts, and, Stripe.",
     image: "/admin-dashboard-charts-screenshot.png",
     github: "https://github.com/IgorTheFixer/admin-dashboard-commerce",
     link: "https://admin-dashboard-commerce.vercel.app/",
