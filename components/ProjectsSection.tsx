@@ -5,12 +5,36 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
+    name: "Trillion Troves",
+    description:
+      "Trillion Troves is an e-commerce store built using Next and Tailwind.",
+    image: "/trillion-troves-screenshot.png",
+    github: "https://github.com/IgorTheFixer/trillion-troves",
+    link: "https://trillion-troves.vercel.app/",
+  },
+  {
+    name: "Admin DashBoard (Trillion Troves)",
+    description:
+      "The Admin Dashboard is a custom-built content management system for the products sold on Trillion Troves. Features include Next, Tailwind, Prisma, MySQL, ReCharts, and, Stripe",
+    image: "/admin-dashboard-charts-screenshot.png",
+    github: "https://github.com/IgorTheFixer/admin-dashboard-commerce",
+    link: "https://admin-dashboard-commerce.vercel.app/",
+  },
+  {
     name: "NextFlix",
     description:
       "Nextflix is an attempt to mimic the basic functionality of the streaming platform Netflix.",
     image: "/nextflix-image.png",
     github: "https://github.com/IgorTheFixer/next-netflix-clone",
     link: "https://nextflixx.vercel.app",
+  },
+  {
+    name: "Boston Code and Coffee's Official Website",
+    description:
+      "A volunteer project that I led for the nonprofit group: Boston Code and Coffee",
+    image: "/code-and-coffee-screenshot.png",
+    github: "https://github.com/CodeandCoffeeCommunity/boston-code-and-coffee",
+    link: "https://boston-code-and-coffee-test.vercel.app/",
   },
   {
     name: "Personal Planner",

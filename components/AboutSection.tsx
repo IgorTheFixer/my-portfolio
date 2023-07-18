@@ -17,6 +17,11 @@ const skills = [
   { skill: "Prisma" },
   { skill: "SQL" },
   { skill: "PostgreQL" },
+  { skill: "MongoDB" },
+  { skill: "MySQL" },
+  { skill: "Firebase" },
+  { skill: "Drupal" },
+  { skill: "WordPress" },
 ]
 
 const AboutSection = () => {
