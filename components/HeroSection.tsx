@@ -24,7 +24,7 @@ const HeroSection = () => {
             <span className="font-semibold text-teal-600">
               Software Engineer{" "}
             </span>
-            based in Boston, MA. Working towards building cool and unique applications 
+            based in Boston, MA. Passionate about building cool and unique applications 
             that add value to the users.
           </p>
           <Link
