@@ -15,7 +15,7 @@ const projects = [
   {
     name: "Admin DashBoard (Trillion Troves)",
     description:
-      "The Admin Dashboard is a custom-built content management system for the products sold on Trillion Troves. Interested users can also create their own stores for use on a frontend of their choice. Features include Next, Tailwind, Prisma, MySQL, ReCharts, and, Stripe.",
+      "The Admin Dashboard is a custom-built content management system using RESTful APIs for the products sold on Trillion Troves. Interested users can also create their own stores for use on a frontend of their choice. Features include Next, Tailwind, Prisma, MySQL, ReCharts, and, Stripe.",
     image: "/admin-dashboard-charts-screenshot.png",
     github: "https://github.com/IgorTheFixer/admin-dashboard-commerce",
     link: "https://admin-dashboard-commerce.vercel.app/",
@@ -34,7 +34,7 @@ const projects = [
       "A volunteer project that I led for the nonprofit group: Boston Code and Coffee",
     image: "/code-and-coffee-screenshot.png",
     github: "https://github.com/CodeandCoffeeCommunity/boston-code-and-coffee",
-    link: "https://boston-code-and-coffee-test.vercel.app/",
+    link: "https://www.bostoncodeandcoffee.com/",
   },
   {
     name: "Personal Planner",
