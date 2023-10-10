@@ -28,14 +28,14 @@ const projects = [
     github: "https://github.com/IgorTheFixer/next-netflix-clone",
     link: "https://nextflixx.vercel.app",
   },
-  {
-    name: "Boston Code and Coffee's Official Website",
-    description:
-      "A volunteer project that I led for the nonprofit group: Boston Code and Coffee",
-    image: "/code-and-coffee-screenshot.png",
-    github: "https://github.com/CodeandCoffeeCommunity/boston-code-and-coffee",
-    link: "https://www.bostoncodeandcoffee.com/",
-  },
+  // {
+  //   name: "Boston Code and Coffee's Official Website",
+  //   description:
+  //     "A volunteer project that I led for the nonprofit group: Boston Code and Coffee",
+  //   image: "/code-and-coffee-screenshot.png",
+  //   github: "https://github.com/CodeandCoffeeCommunity/boston-code-and-coffee",
+  //   link: "https://www.bostoncodeandcoffee.com/",
+  // },
   {
     name: "Personal Planner",
     description: "Personal Planner is a to do list app that built using Next.JS and Tailwind.",
