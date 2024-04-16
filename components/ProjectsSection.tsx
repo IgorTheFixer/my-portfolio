@@ -36,13 +36,13 @@ const projects = [
   //   github: "https://github.com/CodeandCoffeeCommunity/boston-code-and-coffee",
   //   link: "https://www.bostoncodeandcoffee.com/",
   // },
-  {
-    name: "Personal Planner",
-    description: "Personal Planner is a to do list app that built using Next.JS and Tailwind.",
-    image: "/planner-image.png",
-    github: "https://github.com/IgorTheFixer/personal-planner/",
-    link: "https://personal-planner-two.vercel.app",
-  }
+  // {
+  //   name: "Personal Planner",
+  //   description: "Personal Planner is a to do list app that built using Next.JS and Tailwind.",
+  //   image: "/planner-image.png",
+  //   github: "https://github.com/IgorTheFixer/personal-planner/",
+  //   link: "https://personal-planner-two.vercel.app",
+  // }
 ]
 
 const ProjectsSection = () => {
